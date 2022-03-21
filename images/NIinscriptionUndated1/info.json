@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 101,
+    "height" : 134
+  }, {
+    "width" : 201,
+    "height" : 268
+  }, {
+    "width" : 402,
+    "height" : 536
+  }, {
+    "width" : 804,
+    "height" : 1072
+  }, {
+    "width" : 1608,
+    "height" : 2144
+  }, {
+    "width" : 3216,
+    "height" : 4288
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3216,
+  "@id" : "https://IldiW.github.io/IWpractice/images/NIinscriptionUndated1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4288
+}
